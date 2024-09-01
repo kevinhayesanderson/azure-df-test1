@@ -1,0 +1,9 @@
+{
+	"name": "kevinhayesanderson-df",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c5905cab-083a-4b1d-b41a-cb72c51d6ffa",
+		"tenantId": "1ffbf82b-27c6-43a7-b8c9-4399d0203940"
+	}
+}
